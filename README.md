@@ -2,7 +2,7 @@
 # Awesome AI Prompts 🚀
 
 [![Dataset on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-datasets-blue)](https://huggingface.co/datasets/syntheticbot/awesome-ai-prompts)
-[![GitHub Repo stars](https://img.shields.io/github/stars/rahulkolekardev/awesome-ai-prompts?style=social)](https://github.com/rahulkolekardev/awesome-ai-prompt)
+[![GitHub Repo stars](https://img.shields.io/github/stars/rahulkolekardev/awesome-ai-prompts?style=social)](https://github.com/rahulkolekardev/awesome-ai-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A curated collection of 100 high-quality, detailed, and safe-for-work prompts designed to unlock the full potential of modern Large Language Models (LLMs).
